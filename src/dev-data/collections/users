@@ -1,0 +1,199 @@
+[{
+  "_id": {
+    "$oid": "647f97f67f2c749119c09256"
+  },
+  "username": "Best J  Admin",
+  "email": "admin@example.io",
+  "role": "ADMIN",
+  "password": "$2a$12$QcQDPpfvz3BUjMyut55cbeKvS29eYldAQwX5uu5OcC98p2iA.QzmC",
+  "active": true,
+  "__v": 0,
+  "passwordChangedAt": {
+    "$date": "2023-06-15T08:37:31.472Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-05T08:05:16.677Z"
+  }
+},{
+  "_id": {
+    "$oid": "648d6c3a3d339047cc744529"
+  },
+  "username": "Andy Brown",
+  "email": "andy@example.io",
+  "role": "USER",
+  "password": "$2a$12$FN6QUEryT63Pno62A8/sMel52jJYnE2PRvV72iJFvUM7M9iTdbbCi",
+  "active": true,
+  "createdAt": {
+    "$date": "2023-06-17T08:18:02.658Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T08:18:02.658Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d6ff93d339047cc74455a"
+  },
+  "username": "Mary  James",
+  "email": "mary@example.io",
+  "role": "USER",
+  "password": "$2a$12$wNSCJz5eHuaINLau3vIWLemF2./6npukiP3CqGsg8L8i41IN44bHe",
+  "active": true,
+  "createdAt": {
+    "$date": "2023-06-17T08:34:01.956Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-02T06:45:20.384Z"
+  },
+  "__v": 0,
+  "passwordChangedAt": {
+    "$date": "2023-07-08T15:19:18.641Z"
+  }
+},{
+  "_id": {
+    "$oid": "648d74183d339047cc74458b"
+  },
+  "username": "Fred Stones",
+  "email": "fred@example.io",
+  "role": "USER",
+  "password": "$2a$12$Efy7u31/x6dERspDjWXAbuA.1YhbupRyD0YXrfLNfcT9xXnN6aiNm",
+  "active": true,
+  "createdAt": {
+    "$date": "2023-06-17T08:51:36.404Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T08:51:36.404Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d761d3d339047cc7445af"
+  },
+  "username": "Neba Freemon",
+  "email": "neba@example.io",
+  "role": "USER",
+  "password": "$2a$12$.Yb/SJDlsatOEzHNajM0ne619SVZmmuA129.MkFV6nGrX3EYamm/W",
+  "active": true,
+  "createdAt": {
+    "$date": "2023-06-17T09:00:13.100Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T09:00:13.100Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d78853d339047cc7445de"
+  },
+  "username": "Brown Milles",
+  "email": "brown@example.io",
+  "role": "USER",
+  "password": "$2a$12$IjoliWGfBpkMlDxp0fXoVuKK1pWa9EpILbK0o6MPFldbWvlD6wNtu",
+  "active": true,
+  "createdAt": {
+    "$date": "2023-06-17T09:10:29.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T09:10:29.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d7a413d339047cc744601"
+  },
+  "username": "Prince Brown",
+  "email": "prince@example.io",
+  "role": "USER",
+  "password": "$2a$12$LPH6yOdGMaB6IJFtJO9fp.1RKmj2SKPGrGel3s9KFAaXI88PR6brK",
+  "active": true,
+  "createdAt": {
+    "$date": "2023-06-17T09:17:53.108Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T09:17:53.108Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649ec14b4897993b79a19ae3"
+  },
+  "username": "Andrew King",
+  "email": "andrew@example.io",
+  "role": "USER",
+  "password": "$2a$12$/zkQpy.I83bXfBXuJz0Pduq05Gt911nPX83L.ygnlK4.T1Vr5fwqa",
+  "active": true,
+  "createdAt": {
+    "$date": "2023-06-30T11:49:31.064Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-02T17:21:25.105Z"
+  },
+  "__v": 0,
+  "passwordChangedAt": {
+    "$date": "2023-06-30T14:02:30.873Z"
+  }
+},{
+  "_id": {
+    "$oid": "64bf93de892904174d5e796e"
+  },
+  "username": "Mark Mcmillan",
+  "email": "mark@example.io",
+  "role": "USER",
+  "password": "$2a$12$Owu.hZIOaU/S9l766l1SEetQxcn.Y6NZ4KELALtT0zmVWCNZFrt2u",
+  "active": true,
+  "createdAt": {
+    "$date": "2023-07-25T09:20:30.511Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-25T09:20:30.511Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64bf951f892904174d5e7980"
+  },
+  "username": "James Enoch",
+  "email": "james@example.io",
+  "role": "USER",
+  "password": "$2a$12$3dOH.14iSWDyCUJwOgxuEOonqCy3wu/0w35xdcdktUmS5ufe3ZlUC",
+  "active": true,
+  "createdAt": {
+    "$date": "2023-07-25T09:25:51.478Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-25T09:25:51.478Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64c57171efebc9d6fc69f739"
+  },
+  "username": "Richard Bay",
+  "email": "richard@example.io",
+  "role": "USER",
+  "password": "$2a$12$iCQSSNFX/1VNRUoUAYC7I.Noaj9Z9quRXmLwq7B3KaPXYjSBWhbdK",
+  "active": true,
+  "createdAt": {
+    "$date": "2023-07-29T20:07:13.550Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-29T20:07:13.550Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64c579d8efebc9d6fc69f991"
+  },
+  "username": "angwa james",
+  "email": "angwa@example.io",
+  "role": "USER",
+  "password": "$2a$12$pvYKl4QT.veUwVK4nDlHnuyhFIbscoKlidAlra9dC8gXRIN4SZFmm",
+  "active": true,
+  "createdAt": {
+    "$date": "2023-07-29T20:43:04.836Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-29T20:43:04.836Z"
+  },
+  "__v": 0
+}]

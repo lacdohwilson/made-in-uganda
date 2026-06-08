@@ -1,0 +1,10 @@
+coverage/
+logs/
+node_modules/
+README.md
+.env
+.gitignore
+.git
+.env.*
+.eslintrc.json
+.prettierrc

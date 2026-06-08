@@ -1,0 +1,340 @@
+[{
+  "_id": {
+    "$oid": "648d6c643d339047cc74452d"
+  },
+  "name": "Mobile Telecom",
+  "description": "Lorem ipsum dolor na consectur lo para",
+  "employees": 5,
+  "telephone": "655443344",
+  "address": {
+    "line_1": "Center Village",
+    "line_2": "Beside Store",
+    "city": "Kampala",
+    "region": "West",
+    "zipcode": "456"
+  },
+  "location": {
+    "coordinates": [
+      20.034,
+      90.05
+    ],
+    "type": "Point"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T08:18:44.119Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T08:37:24.718Z"
+  },
+  "__v": 0,
+  "logo": "logo-648d6c643d339047cc74452d-1686990040267.png",
+  "user": {
+    "$oid": "648d6c3a3d339047cc744529"
+  }
+},{
+  "_id": {
+    "$oid": "648d70363d339047cc74455e"
+  },
+  "name": "New Life Fashion",
+  "description": "We sell the best fashionable clothes at best prices and best qualities.",
+  "employees": 11,
+  "telephone": "655443399",
+  "address": {
+    "line_1": "Center Village",
+    "line_2": "Beside Post Office",
+    "city": "Kampala",
+    "region": "Eastern",
+    "zipcode": "402"
+  },
+  "location": {
+    "coordinates": [
+      40.034,
+      34.05
+    ],
+    "type": "Point"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T08:35:02.344Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-02T06:46:04.867Z"
+  },
+  "__v": 0,
+  "logo": "logo-648d70363d339047cc74455e-1690958760914.png",
+  "user": {
+    "$oid": "648d6ff93d339047cc74455a"
+  }
+},{
+  "_id": {
+    "$oid": "648d742e3d339047cc74458f"
+  },
+  "name": "Mr Shoes",
+  "description": "Lorem ipsum dolor na consectur lo para",
+  "employees": 5,
+  "telephone": "655443399",
+  "address": {
+    "line_1": "Center Village",
+    "line_2": "Beside Store",
+    "city": "Kampala",
+    "region": "East",
+    "zipcode": "406"
+  },
+  "location": {
+    "coordinates": [
+      40.034,
+      34.05
+    ],
+    "type": "Point"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T08:51:58.534Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T08:51:58.534Z"
+  },
+  "__v": 0,
+  "user": {
+    "$oid": "648d74183d339047cc74458b"
+  }
+},{
+  "_id": {
+    "$oid": "648d764e3d339047cc7445b3"
+  },
+  "name": "American Stock Shop",
+  "description": "Lorem ipsum dolor na consectur lo para",
+  "employees": 18,
+  "telephone": "655440099",
+  "address": {
+    "line_1": "Center Village",
+    "line_2": "Beside Store",
+    "city": "Kampala",
+    "region": "East",
+    "zipcode": "406"
+  },
+  "location": {
+    "coordinates": [
+      80.034,
+      64.05
+    ],
+    "type": "Point"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T09:01:02.423Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T09:01:48.061Z"
+  },
+  "__v": 0,
+  "logo": "logo-648d764e3d339047cc7445b3-1686992507956.png",
+  "user": {
+    "$oid": "648d761d3d339047cc7445af"
+  }
+},{
+  "_id": {
+    "$oid": "648d78b83d339047cc7445e2"
+  },
+  "name": "Modern Way Furniture",
+  "description": "The best modern furniture you can find in uganda.",
+  "employees": 18,
+  "telephone": "655442299",
+  "address": {
+    "line_1": "Center Village",
+    "line_2": "Beside Store",
+    "city": "Kampala",
+    "region": "Western",
+    "zipcode": "406"
+  },
+  "location": {
+    "coordinates": [
+      80.034,
+      64.05
+    ],
+    "type": "Point"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T09:11:20.732Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-06T04:04:27.534Z"
+  },
+  "__v": 0,
+  "logo": "logo-648d78b83d339047cc7445e2-1686993124213.png",
+  "user": {
+    "$oid": "648d78853d339047cc7445de"
+  }
+},{
+  "_id": {
+    "$oid": "648d7a643d339047cc744605"
+  },
+  "name": "Mr Bags",
+  "description": "Lorem ipsum dolor na consectur lo para",
+  "employees": 1,
+  "telephone": "655002299",
+  "address": {
+    "line_1": "Center Village",
+    "line_2": "Beside Store",
+    "city": "Kampala",
+    "region": "East",
+    "zipcode": "406"
+  },
+  "location": {
+    "coordinates": [
+      80.034,
+      64.05
+    ],
+    "type": "Point"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T09:18:28.345Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T09:18:28.345Z"
+  },
+  "__v": 0,
+  "user": {
+    "$oid": "648d7a413d339047cc744601"
+  }
+},{
+  "_id": {
+    "$oid": "649ec1894897993b79a19ae7"
+  },
+  "name": "Uganda Stock Shop",
+  "description": "The first ugandian stock shop",
+  "employees": 15,
+  "telephone": "644223344",
+  "address": {
+    "line_1": "Mary Street",
+    "line_2": "Vita Park",
+    "city": "Kampala",
+    "region": "Eastern ",
+    "zipcode": "237"
+  },
+  "createdAt": {
+    "$date": "2023-06-30T11:50:33.013Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-02T18:15:10.618Z"
+  },
+  "__v": 0,
+  "user": {
+    "$oid": "649ec14b4897993b79a19ae3"
+  }
+},{
+  "_id": {
+    "$oid": "64bf9427892904174d5e7972"
+  },
+  "name": "Dubia Telecom",
+  "description": "Best in all types of electronics from dubia especially speakers.",
+  "employees": 5,
+  "telephone": "678990044",
+  "address": {
+    "line_1": "City Gates",
+    "line_2": "Main Market",
+    "city": "Kampala",
+    "region": "Nothern",
+    "zipcode": "233"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": []
+  },
+  "user": {
+    "$oid": "64bf93de892904174d5e796e"
+  },
+  "createdAt": {
+    "$date": "2023-07-25T09:21:43.349Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-26T13:31:25.127Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64bf9595892904174d5e7988"
+  },
+  "name": "New Digital Electronic",
+  "description": "Best in new electronics items from all over the world.",
+  "employees": 10,
+  "telephone": "677882211",
+  "address": {
+    "line_1": "New Town",
+    "line_2": "",
+    "city": "Kampala",
+    "region": "Eastern",
+    "zipcode": "3445"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": []
+  },
+  "user": {
+    "$oid": "64bf951f892904174d5e7980"
+  },
+  "createdAt": {
+    "$date": "2023-07-25T09:27:49.276Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-25T09:27:49.276Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64c571b3efebc9d6fc69f73d"
+  },
+  "name": "The New Dream Fashion",
+  "description": "Best in all modern men's fashion clothes and shoes",
+  "employees": 11,
+  "telephone": "655440099",
+  "address": {
+    "line_1": "New Town",
+    "line_2": "Oma",
+    "city": "Kampala",
+    "region": "Northern",
+    "zipcode": "8900"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": []
+  },
+  "user": {
+    "$oid": "64c57171efebc9d6fc69f739"
+  },
+  "createdAt": {
+    "$date": "2023-07-29T20:08:19.939Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-29T20:11:27.583Z"
+  },
+  "__v": 0,
+  "logo": "logo-64c571b3efebc9d6fc69f73d-1690661483298.png"
+},{
+  "_id": {
+    "$oid": "64c580bc51ebb5060377a0ca"
+  },
+  "name": "New Brand suit",
+  "description": "Specialize in all types of suit",
+  "employees": 12,
+  "telephone": "78999330",
+  "address": {
+    "line_1": "Old Town",
+    "line_2": "Mongo Bay",
+    "city": "Kampala",
+    "region": "Western",
+    "zipcode": "204"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": []
+  },
+  "user": {
+    "$oid": "64c579d8efebc9d6fc69f991"
+  },
+  "createdAt": {
+    "$date": "2023-07-29T21:12:28.756Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-29T21:12:52.308Z"
+  },
+  "__v": 0,
+  "logo": "logo-64c580bc51ebb5060377a0ca-1690665171764.png"
+}]

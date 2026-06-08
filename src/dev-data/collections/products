@@ -1,0 +1,1236 @@
+[{
+  "_id": {
+    "$oid": "648d6d763d339047cc744537"
+  },
+  "name": "Iphone 11 Pro",
+  "brand": "11 Pro",
+  "price": 50000,
+  "currency": "UGX",
+  "priceDiscount": 45000,
+  "imageCover": "product-648d6c643d339047cc74452d-1686990197959-cover.jpeg",
+  "images": [],
+  "category": {
+    "$oid": "648d6bcb5ade4d226e7737a3"
+  },
+  "store": {
+    "$oid": "648d6c643d339047cc74452d"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T08:23:18.386Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T08:23:18.386Z"
+  },
+  "percentageDiscount": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d6dd53d339047cc74453b"
+  },
+  "name": "Samsung Galaxy",
+  "brand": "Galaxy",
+  "price": 20000,
+  "currency": "UGX",
+  "priceDiscount": 19500,
+  "imageCover": "product-648d6c643d339047cc74452d-1686990293267-cover.jpeg",
+  "images": [],
+  "category": {
+    "$oid": "648d6bcb5ade4d226e7737a3"
+  },
+  "store": {
+    "$oid": "648d6c643d339047cc74452d"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T08:24:53.523Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T08:24:53.523Z"
+  },
+  "percentageDiscount": 2.5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d6e273d339047cc74453f"
+  },
+  "name": "Tecno Spark",
+  "brand": "Gold",
+  "price": 250000,
+  "currency": "UGX",
+  "priceDiscount": 200000,
+  "imageCover": "product-648d6c643d339047cc74452d-1686990375338-cover.jpeg",
+  "images": [],
+  "category": {
+    "$oid": "648d6bcb5ade4d226e7737a3"
+  },
+  "store": {
+    "$oid": "648d6c643d339047cc74452d"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T08:26:15.478Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T08:26:15.478Z"
+  },
+  "percentageDiscount": 20,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d6ea23d339047cc744547"
+  },
+  "name": "Mac Book",
+  "brand": "Pro",
+  "price": 1500000,
+  "currency": "UGX",
+  "imageCover": "product-648d6c643d339047cc74452d-1686990497960-cover.jpeg",
+  "images": [],
+  "category": {
+    "$oid": "648d6bcb5ade4d226e7737a3"
+  },
+  "store": {
+    "$oid": "648d6c643d339047cc74452d"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T08:28:18.937Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T08:28:18.937Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d6ef33d339047cc74454b"
+  },
+  "name": "Speaker",
+  "price": 150000,
+  "currency": "UGX",
+  "imageCover": "product-648d6c643d339047cc74452d-1686990579064-cover.jpeg",
+  "images": [],
+  "category": {
+    "$oid": "648d6bcb5ade4d226e7737a3"
+  },
+  "store": {
+    "$oid": "648d6c643d339047cc74452d"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T08:29:39.115Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T08:29:39.115Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d71bd3d339047cc744568"
+  },
+  "name": "Gentle Men",
+  "brand": "Suit",
+  "price": 50000,
+  "currency": "UGX",
+  "priceDiscount": 49000,
+  "imageCover": "product-648d70363d339047cc74455e-1686991293612-cover.jpeg",
+  "images": [],
+  "category": {
+    "$oid": "648d6fcb3d339047cc744558"
+  },
+  "store": {
+    "$oid": "648d70363d339047cc74455e"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T08:41:33.658Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T08:41:33.658Z"
+  },
+  "percentageDiscount": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d72073d339047cc74456c"
+  },
+  "name": "Lady Gown",
+  "brand": "Suit",
+  "price": 11000,
+  "currency": "UGX",
+  "imageCover": "product-648d70363d339047cc74455e-1686991366986-cover.jpeg",
+  "images": [],
+  "category": {
+    "$oid": "648d6fcb3d339047cc744558"
+  },
+  "store": {
+    "$oid": "648d70363d339047cc74455e"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T08:42:47.052Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T08:42:47.052Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d724c3d339047cc744570"
+  },
+  "name": "Shirt",
+  "price": 6000,
+  "currency": "UGX",
+  "imageCover": "product-648d70363d339047cc74455e-1686991436735-cover.jpeg",
+  "images": [],
+  "category": {
+    "$oid": "648d6fcb3d339047cc744558"
+  },
+  "store": {
+    "$oid": "648d70363d339047cc74455e"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T08:43:56.807Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T08:43:56.807Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d72823d339047cc744574"
+  },
+  "name": "Track suit",
+  "brand": "Polo",
+  "price": 25000,
+  "currency": "UGX",
+  "imageCover": "product-648d70363d339047cc74455e-1686991490913-cover.jpeg",
+  "images": [],
+  "category": {
+    "$oid": "648d6fcb3d339047cc744558"
+  },
+  "store": {
+    "$oid": "648d70363d339047cc74455e"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T08:44:50.930Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T08:44:50.930Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d72b53d339047cc744578"
+  },
+  "name": "Track suit",
+  "brand": "Lion",
+  "price": 35000,
+  "currency": "UGX",
+  "imageCover": "product-648d70363d339047cc74455e-1686991541819-cover.jpeg",
+  "images": [],
+  "category": {
+    "$oid": "648d6fcb3d339047cc744558"
+  },
+  "store": {
+    "$oid": "648d70363d339047cc74455e"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T08:45:41.869Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T08:45:41.869Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d72e03d339047cc74457c"
+  },
+  "name": "Track suit",
+  "brand": "LBL",
+  "price": 30000,
+  "currency": "UGX",
+  "imageCover": "product-648d70363d339047cc74455e-1686991584572-cover.jpeg",
+  "images": [],
+  "category": {
+    "$oid": "648d6fcb3d339047cc744558"
+  },
+  "store": {
+    "$oid": "648d70363d339047cc74455e"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T08:46:24.621Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T08:46:24.621Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d73403d339047cc744583"
+  },
+  "name": "Men Suit",
+  "price": 45000,
+  "currency": "UGX",
+  "imageCover": "product-648d70363d339047cc74455e-1686991680144-cover.jpeg",
+  "images": [],
+  "category": {
+    "$oid": "648d6fcb3d339047cc744558"
+  },
+  "store": {
+    "$oid": "648d70363d339047cc74455e"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T08:48:00.193Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T08:48:00.193Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d747b3d339047cc744593"
+  },
+  "name": "Read Sneakers",
+  "brand": "Nike",
+  "price": 20000,
+  "currency": "UGX",
+  "imageCover": "product-648d742e3d339047cc74458f-1686991994882-cover.jpeg",
+  "images": [],
+  "category": {
+    "$oid": "648d73fd3d339047cc744589"
+  },
+  "store": {
+    "$oid": "648d742e3d339047cc74458f"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T08:53:15.381Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T08:53:15.381Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d74ae3d339047cc744597"
+  },
+  "name": "Black Salamanda",
+  "price": 20000,
+  "currency": "UGX",
+  "imageCover": "product-648d742e3d339047cc74458f-1686992045781-cover.jpeg",
+  "images": [],
+  "category": {
+    "$oid": "648d73fd3d339047cc744589"
+  },
+  "store": {
+    "$oid": "648d742e3d339047cc74458f"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T08:54:06.026Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T08:54:06.026Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d74f43d339047cc74459b"
+  },
+  "name": "Brown Stiletto",
+  "price": 15000,
+  "currency": "UGX",
+  "priceDiscount": 14500,
+  "imageCover": "product-648d742e3d339047cc74458f-1686992116444-cover.jpeg",
+  "images": [],
+  "category": {
+    "$oid": "648d73fd3d339047cc744589"
+  },
+  "store": {
+    "$oid": "648d742e3d339047cc74458f"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T08:55:16.807Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T08:55:16.807Z"
+  },
+  "percentageDiscount": 3.3333333333333286,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d75763d339047cc7445a3"
+  },
+  "name": "Salamanda",
+  "brand": "Gaoke",
+  "price": 40000,
+  "currency": "UGX",
+  "imageCover": "product-648d742e3d339047cc74458f-1686992246757-cover.jpeg",
+  "images": [],
+  "category": {
+    "$oid": "648d73fd3d339047cc744589"
+  },
+  "store": {
+    "$oid": "648d742e3d339047cc74458f"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T08:57:26.812Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T08:57:26.812Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d75d33d339047cc7445a7"
+  },
+  "name": "Madam Stiletto",
+  "price": 50000,
+  "currency": "UGX",
+  "priceDiscount": 47000,
+  "imageCover": "product-648d742e3d339047cc74458f-1686992338587-cover.jpeg",
+  "images": [],
+  "category": {
+    "$oid": "648d73fd3d339047cc744589"
+  },
+  "store": {
+    "$oid": "648d742e3d339047cc74458f"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T08:58:59.052Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T08:58:59.052Z"
+  },
+  "percentageDiscount": 6,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d76d03d339047cc7445ba"
+  },
+  "name": "Sneakers",
+  "price": 9000,
+  "currency": "UGX",
+  "imageCover": "product-648d764e3d339047cc7445b3-1686992591753-cover.jpeg",
+  "images": [],
+  "category": {
+    "$oid": "648d75f93d339047cc7445ad"
+  },
+  "store": {
+    "$oid": "648d764e3d339047cc7445b3"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T09:03:12.166Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T09:03:12.166Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d77043d339047cc7445be"
+  },
+  "name": "Green Sneakers",
+  "brand": "Nike",
+  "price": 9000,
+  "currency": "UGX",
+  "imageCover": "product-648d764e3d339047cc7445b3-1686992644268-cover.jpeg",
+  "images": [],
+  "category": {
+    "$oid": "648d75f93d339047cc7445ad"
+  },
+  "store": {
+    "$oid": "648d764e3d339047cc7445b3"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T09:04:04.445Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T09:04:04.445Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d77383d339047cc7445c2"
+  },
+  "name": "Diamon Watch",
+  "price": 25000,
+  "currency": "UGX",
+  "imageCover": "product-648d764e3d339047cc7445b3-1686992696130-cover.jpeg",
+  "images": [],
+  "category": {
+    "$oid": "648d75f93d339047cc7445ad"
+  },
+  "store": {
+    "$oid": "648d764e3d339047cc7445b3"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T09:04:56.315Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T09:04:56.315Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d77613d339047cc7445c6"
+  },
+  "name": "Brown Shoes",
+  "price": 50000,
+  "currency": "UGX",
+  "imageCover": "product-648d764e3d339047cc7445b3-1686992737166-cover.jpeg",
+  "images": [],
+  "category": {
+    "$oid": "648d75f93d339047cc7445ad"
+  },
+  "store": {
+    "$oid": "648d764e3d339047cc7445b3"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T09:05:37.718Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T09:05:37.718Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d77a13d339047cc7445ca"
+  },
+  "name": "Army Track Suit",
+  "price": 30000,
+  "currency": "UGX",
+  "imageCover": "product-648d764e3d339047cc7445b3-1686992801019-cover.jpeg",
+  "images": [],
+  "category": {
+    "$oid": "648d75f93d339047cc7445ad"
+  },
+  "store": {
+    "$oid": "648d764e3d339047cc7445b3"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T09:06:41.041Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T09:06:41.041Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d77d53d339047cc7445ce"
+  },
+  "name": "Chapman Hat",
+  "price": 30000,
+  "currency": "UGX",
+  "imageCover": "product-648d764e3d339047cc7445b3-1686992853707-cover.jpeg",
+  "images": [],
+  "category": {
+    "$oid": "648d75f93d339047cc7445ad"
+  },
+  "store": {
+    "$oid": "648d764e3d339047cc7445b3"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T09:07:33.785Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T09:07:33.785Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d78013d339047cc7445d2"
+  },
+  "name": "Black Cap",
+  "brand": "LA",
+  "price": 30000,
+  "currency": "UGX",
+  "imageCover": "product-648d764e3d339047cc7445b3-1686992896999-cover.jpeg",
+  "images": [],
+  "category": {
+    "$oid": "648d75f93d339047cc7445ad"
+  },
+  "store": {
+    "$oid": "648d764e3d339047cc7445b3"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T09:08:17.091Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T09:08:17.091Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d78473d339047cc7445d6"
+  },
+  "name": "Hod Cap",
+  "price": 500,
+  "currency": "UGX",
+  "imageCover": "product-648d764e3d339047cc7445b3-1686992967120-cover.jpeg",
+  "images": [],
+  "category": {
+    "$oid": "648d75f93d339047cc7445ad"
+  },
+  "store": {
+    "$oid": "648d764e3d339047cc7445b3"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T09:09:27.188Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T09:09:27.188Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d791e3d339047cc7445e9"
+  },
+  "name": "Table Chair",
+  "price": 7000,
+  "currency": "UGX",
+  "imageCover": "product-648d78b83d339047cc7445e2-1686993182328-cover.jpeg",
+  "images": [],
+  "category": {
+    "$oid": "648d785f3d339047cc7445dc"
+  },
+  "store": {
+    "$oid": "648d78b83d339047cc7445e2"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T09:13:02.375Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T09:13:02.375Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d79553d339047cc7445ed"
+  },
+  "name": "Small Table",
+  "price": 10000,
+  "currency": "UGX",
+  "imageCover": "product-648d78b83d339047cc7445e2-1686993237525-cover.jpeg",
+  "images": [],
+  "category": {
+    "$oid": "648d785f3d339047cc7445dc"
+  },
+  "store": {
+    "$oid": "648d78b83d339047cc7445e2"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T09:13:57.577Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T09:13:57.577Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d79953d339047cc7445f1"
+  },
+  "name": "Confort Room chair",
+  "price": 340000,
+  "currency": "UGX",
+  "priceDiscount": 320000,
+  "imageCover": "product-648d78b83d339047cc7445e2-1686993301859-cover.jpeg",
+  "images": [],
+  "category": {
+    "$oid": "648d785f3d339047cc7445dc"
+  },
+  "store": {
+    "$oid": "648d78b83d339047cc7445e2"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T09:15:01.908Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T09:15:01.908Z"
+  },
+  "percentageDiscount": 5.882352941176464,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d79cb3d339047cc7445f5"
+  },
+  "name": "Queen Chair",
+  "price": 350000,
+  "currency": "UGX",
+  "priceDiscount": 330000,
+  "imageCover": "product-648d78b83d339047cc7445e2-1686993355256-cover.jpeg",
+  "images": [],
+  "category": {
+    "$oid": "648d785f3d339047cc7445dc"
+  },
+  "store": {
+    "$oid": "648d78b83d339047cc7445e2"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T09:15:55.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T09:15:55.299Z"
+  },
+  "percentageDiscount": 5.714285714285708,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d7a0b3d339047cc7445f9"
+  },
+  "name": "Parlour Chair",
+  "price": 250000,
+  "currency": "UGX",
+  "priceDiscount": 200000,
+  "imageCover": "product-648d78b83d339047cc7445e2-1686993419321-cover.jpeg",
+  "images": [],
+  "category": {
+    "$oid": "648d785f3d339047cc7445dc"
+  },
+  "store": {
+    "$oid": "648d78b83d339047cc7445e2"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T09:16:59.371Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T09:16:59.371Z"
+  },
+  "percentageDiscount": 20,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d7aaa3d339047cc744609"
+  },
+  "name": "School Bag",
+  "price": 25000,
+  "currency": "UGX",
+  "imageCover": "product-648d7a643d339047cc744605-1686993578430-cover.jpeg",
+  "images": [],
+  "category": {
+    "$oid": "648d7a1d3d339047cc7445ff"
+  },
+  "store": {
+    "$oid": "648d7a643d339047cc744605"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T09:19:38.494Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T09:19:38.494Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d7ad73d339047cc74460d"
+  },
+  "name": "Laptop Bag",
+  "price": 30000,
+  "currency": "UGX",
+  "imageCover": "product-648d7a643d339047cc744605-1686993623442-cover.jpeg",
+  "images": [],
+  "category": {
+    "$oid": "648d7a1d3d339047cc7445ff"
+  },
+  "store": {
+    "$oid": "648d7a643d339047cc744605"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T09:20:23.489Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T09:20:23.489Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d7b103d339047cc744611"
+  },
+  "name": "Pink School Bag",
+  "price": 35000,
+  "currency": "UGX",
+  "priceDiscount": 34000,
+  "imageCover": "product-648d7a643d339047cc744605-1686993680321-cover.jpeg",
+  "images": [],
+  "category": {
+    "$oid": "648d7a1d3d339047cc7445ff"
+  },
+  "store": {
+    "$oid": "648d7a643d339047cc744605"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T09:21:20.411Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T09:21:20.411Z"
+  },
+  "percentageDiscount": 2.857142857142861,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ad602e462a84a6441c992e"
+  },
+  "name": "Black Tennis",
+  "brand": "Nike",
+  "price": 35000,
+  "currency": "UGX",
+  "priceDiscount": 32000,
+  "imageCover": "product-648d70363d339047cc74455e-1689083950580-cover.jpeg",
+  "images": [],
+  "category": {
+    "$oid": "648d73fd3d339047cc744589"
+  },
+  "store": {
+    "$oid": "648d70363d339047cc74455e"
+  },
+  "createdAt": {
+    "$date": "2023-07-11T13:59:10.763Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-11T15:44:23.314Z"
+  },
+  "percentageDiscount": 8.57142857142857,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64afcf7ad1679cbc1be0b7c9"
+  },
+  "name": "Black Cap",
+  "brand": "New York",
+  "price": 5000,
+  "currency": "UGX",
+  "priceDiscount": 4500,
+  "imageCover": "product-64afcf7ad1679cbc1be0b7c9-1689425960747-cover.jpeg",
+  "images": [
+    "product-64afcf7ad1679cbc1be0b7c9-1689414679370-2.jpeg",
+    "product-64afcf7ad1679cbc1be0b7c9-1689414679290-1.jpeg"
+  ],
+  "description": "Very beautiful black cap",
+  "category": {
+    "$oid": "648d75f93d339047cc7445ad"
+  },
+  "store": {
+    "$oid": "648d70363d339047cc74455e"
+  },
+  "createdAt": {
+    "$date": "2023-07-13T10:18:34.263Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-15T12:59:21.152Z"
+  },
+  "percentageDiscount": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64afd0d1d1679cbc1be0b7ec"
+  },
+  "name": "Red Stilletto Hills",
+  "brand": "",
+  "price": 36000,
+  "currency": "UGX",
+  "priceDiscount": 35000,
+  "imageCover": "product-648d70363d339047cc74455e-1689243857626-cover.jpeg",
+  "images": [
+    "product-64afd0d1d1679cbc1be0b7ec-1689431765286-1.jpeg"
+  ],
+  "description": "Best for figure 8 ladies",
+  "category": {
+    "$oid": "648d73fd3d339047cc744589"
+  },
+  "store": {
+    "$oid": "648d70363d339047cc74455e"
+  },
+  "createdAt": {
+    "$date": "2023-07-13T10:24:17.733Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-25T05:05:31.781Z"
+  },
+  "percentageDiscount": 3,
+  "__v": 0,
+  "measurement": {
+    "unit": "",
+    "value": null
+  }
+},{
+  "_id": {
+    "$oid": "64b903d94183741191a794c6"
+  },
+  "name": "Gentle Guy Shoes",
+  "brand": "Nike",
+  "price": 36000,
+  "currency": "UGX",
+  "imageCover": "product-648d70363d339047cc74455e-1689846744593-cover.jpeg",
+  "images": [],
+  "category": {
+    "$oid": "648d73fd3d339047cc744589"
+  },
+  "store": {
+    "$oid": "648d70363d339047cc74455e"
+  },
+  "createdAt": {
+    "$date": "2023-07-20T09:52:25.078Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-20T10:06:00.739Z"
+  },
+  "__v": 0,
+  "priceDiscount": 32000,
+  "percentageDiscount": 11.111111111111114
+},{
+  "_id": {
+    "$oid": "64b90789158aa81419d02215"
+  },
+  "name": "Diamond heels",
+  "price": 50000,
+  "currency": "UGX",
+  "imageCover": "product-648d70363d339047cc74455e-1689847689565-cover.jpeg",
+  "images": [],
+  "description": "Diamond heels for wedding, gorgeous and glorious.",
+  "category": {
+    "$oid": "648008657f2c749119c09282"
+  },
+  "store": {
+    "$oid": "648d70363d339047cc74455e"
+  },
+  "createdAt": {
+    "$date": "2023-07-20T10:08:09.953Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-20T10:14:11.210Z"
+  },
+  "__v": 0,
+  "percentageDiscount": 4,
+  "priceDiscount": 48000
+},{
+  "_id": {
+    "$oid": "64c169a1eb9d5f0fbb76de8d"
+  },
+  "name": "Alexa Speaker",
+  "brand": "Alexa",
+  "price": 60000,
+  "currency": "UGX",
+  "priceDiscount": 58000,
+  "imageCover": "product-64bf9427892904174d5e7972-1690397089611-cover.jpeg",
+  "images": [
+    ""
+  ],
+  "description": "Enjoy music wherever you go.",
+  "category": {
+    "$oid": "648d6bcb5ade4d226e7737a3"
+  },
+  "store": {
+    "$oid": "64bf9427892904174d5e7972"
+  },
+  "createdAt": {
+    "$date": "2023-07-26T18:44:49.998Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-26T18:44:49.998Z"
+  },
+  "percentageDiscount": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64c17a8c40db8c10dff2cd9d"
+  },
+  "name": "Tower Speaker",
+  "brand": "",
+  "price": 150000,
+  "currency": "UGX",
+  "priceDiscount": null,
+  "imageCover": "product-64bf9427892904174d5e7972-1690401419542-cover.jpeg",
+  "images": [
+    ""
+  ],
+  "description": "Quality sound tower speaker.",
+  "category": {
+    "$oid": "648d6bcb5ade4d226e7737a3"
+  },
+  "store": {
+    "$oid": "64bf9427892904174d5e7972"
+  },
+  "createdAt": {
+    "$date": "2023-07-26T19:57:00.302Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-26T19:57:00.302Z"
+  },
+  "percentageDiscount": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64c23150c19ea5d41f5be8d4"
+  },
+  "name": "Men's Scarf",
+  "price": 15000,
+  "currency": "UGX",
+  "imageCover": "product-648d70363d339047cc74455e-1690448208532-cover.jpeg",
+  "images": [],
+  "description": "Simple shirt and short trouser for men",
+  "category": {
+    "$oid": "648d6fcb3d339047cc744558"
+  },
+  "store": {
+    "$oid": "648d70363d339047cc74455e"
+  },
+  "createdAt": {
+    "$date": "2023-07-27T08:56:48.650Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-27T08:56:48.650Z"
+  },
+  "percentageDiscount": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64c515bf5cd31e6815ce4da1"
+  },
+  "name": "Blue Black Suit",
+  "brand": "",
+  "price": 25000,
+  "currency": "UGX",
+  "priceDiscount": 22000,
+  "imageCover": "product-648d70363d339047cc74455e-1690637757970-cover.jpeg",
+  "images": [
+    ""
+  ],
+  "description": "Simple blue black suit for gentle men.",
+  "category": {
+    "$oid": "648d75f93d339047cc7445ad"
+  },
+  "store": {
+    "$oid": "648d70363d339047cc74455e"
+  },
+  "createdAt": {
+    "$date": "2023-07-29T13:35:59.654Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-29T13:35:59.654Z"
+  },
+  "percentageDiscount": 12,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64c516a7efebc9d6fc69f2e8"
+  },
+  "name": "Pullover",
+  "brand": "",
+  "price": 6000,
+  "currency": "UGX",
+  "priceDiscount": null,
+  "imageCover": "product-648d70363d339047cc74455e-1690637991788-cover.jpeg",
+  "images": [
+    ""
+  ],
+  "description": "Cover cooled in times of winter.",
+  "category": {
+    "$oid": "648d6fcb3d339047cc744558"
+  },
+  "store": {
+    "$oid": "648d70363d339047cc74455e"
+  },
+  "createdAt": {
+    "$date": "2023-07-29T13:39:51.889Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-29T13:39:51.889Z"
+  },
+  "percentageDiscount": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64c51f4cefebc9d6fc69f429"
+  },
+  "name": "Big Mama",
+  "brand": "",
+  "price": 9000,
+  "currency": "UGX",
+  "priceDiscount": 8500,
+  "imageCover": "product-648d70363d339047cc74455e-1690640204166-cover.jpeg",
+  "images": [
+    ""
+  ],
+  "description": "Ladies shoes for big mama and size.",
+  "category": {
+    "$oid": "648d73fd3d339047cc744589"
+  },
+  "store": {
+    "$oid": "648d70363d339047cc74455e"
+  },
+  "createdAt": {
+    "$date": "2023-07-29T14:16:44.627Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-29T14:16:44.627Z"
+  },
+  "percentageDiscount": 6,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64c55944efebc9d6fc69f5b8"
+  },
+  "name": "Rolloyds T Shirt",
+  "brand": "",
+  "price": 5000,
+  "currency": "UGX",
+  "priceDiscount": null,
+  "imageCover": "product-648d70363d339047cc74455e-1690655043978-cover.jpeg",
+  "images": [
+    ""
+  ],
+  "description": "The Rolloyds Male T shirt for Gentle men.",
+  "category": {
+    "$oid": "648d75f93d339047cc7445ad"
+  },
+  "store": {
+    "$oid": "648d70363d339047cc74455e"
+  },
+  "createdAt": {
+    "$date": "2023-07-29T18:24:04.464Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-29T18:24:04.464Z"
+  },
+  "percentageDiscount": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64c5730cefebc9d6fc69f79c"
+  },
+  "name": "High man Suit",
+  "brand": "",
+  "price": 65000,
+  "currency": "UGX",
+  "priceDiscount": 60000,
+  "imageCover": "product-64c571b3efebc9d6fc69f73d-1690661644271-cover.jpeg",
+  "images": [
+    ""
+  ],
+  "description": "For high class men.",
+  "category": {
+    "$oid": "648d75f93d339047cc7445ad"
+  },
+  "store": {
+    "$oid": "64c571b3efebc9d6fc69f73d"
+  },
+  "createdAt": {
+    "$date": "2023-07-29T20:14:04.361Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-29T20:41:28.337Z"
+  },
+  "percentageDiscount": 8,
+  "__v": 0,
+  "measurement": {
+    "unit": "Size ",
+    "value": 35
+  }
+},{
+  "_id": {
+    "$oid": "64c573bcefebc9d6fc69f7d2"
+  },
+  "name": "Double Breasted Suit",
+  "brand": "",
+  "price": 70000,
+  "currency": "UGX",
+  "priceDiscount": null,
+  "imageCover": "product-64c571b3efebc9d6fc69f73d-1690661820785-cover.jpeg",
+  "images": [
+    ""
+  ],
+  "description": "Men Double Breasted suit",
+  "category": {
+    "$oid": "648d75f93d339047cc7445ad"
+  },
+  "store": {
+    "$oid": "64c571b3efebc9d6fc69f73d"
+  },
+  "createdAt": {
+    "$date": "2023-07-29T20:17:00.962Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-29T20:39:11.478Z"
+  },
+  "percentageDiscount": 0,
+  "__v": 0,
+  "measurement": {
+    "unit": "Size",
+    "value": 28
+  }
+},{
+  "_id": {
+    "$oid": "64db16ff3621de256c4e6438"
+  },
+  "name": "Iphone 11",
+  "brand": "11 Pro",
+  "price": 3500,
+  "currency": "UGX",
+  "priceDiscount": 3450,
+  "imageCover": "product-64bf9595892904174d5e7988-1692079871101-cover.jpeg",
+  "images": [
+    ""
+  ],
+  "description": "For best telephone users",
+  "category": {
+    "$oid": "648d6bcb5ade4d226e7737a3"
+  },
+  "store": {
+    "$oid": "64bf9595892904174d5e7988"
+  },
+  "createdAt": {
+    "$date": "2023-08-15T06:11:11.274Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-15T06:11:11.274Z"
+  },
+  "percentageDiscount": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64dc8d7ca8a22de5392ba9bf"
+  },
+  "name": "Track suit caterpillar",
+  "brand": "Cat",
+  "price": 35000,
+  "currency": "UGX",
+  "priceDiscount": 34500,
+  "imageCover": "product-648d70363d339047cc74455e-1692175738916-cover.jpeg",
+  "images": [
+    ""
+  ],
+  "description": "Excellent for winter season.",
+  "category": {
+    "$oid": "648d6fcb3d339047cc744558"
+  },
+  "store": {
+    "$oid": "648d70363d339047cc74455e"
+  },
+  "createdAt": {
+    "$date": "2023-08-16T08:49:00.354Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-16T08:49:00.354Z"
+  },
+  "percentageDiscount": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64dc8f27a8a22de5392ba9ef"
+  },
+  "name": "White T Shirt",
+  "brand": "",
+  "price": 2500,
+  "currency": "UGX",
+  "priceDiscount": null,
+  "imageCover": "product-648d70363d339047cc74455e-1692176165674-cover.jpeg",
+  "images": [
+    ""
+  ],
+  "description": "Original T shirt",
+  "category": {
+    "$oid": "648d6fcb3d339047cc744558"
+  },
+  "store": {
+    "$oid": "648d70363d339047cc74455e"
+  },
+  "createdAt": {
+    "$date": "2023-08-16T08:56:07.374Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-16T08:56:07.374Z"
+  },
+  "percentageDiscount": 0,
+  "__v": 0
+}]

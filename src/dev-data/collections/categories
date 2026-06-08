@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "648d6bcb5ade4d226e7737a3"
+  },
+  "name": "electronics",
+  "description": "Lorem ipsum na dolor consecture",
+  "createdAt": {
+    "$date": "2023-06-17T08:16:11.558Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T08:32:34.775Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d6fcb3d339047cc744558"
+  },
+  "name": "clothes",
+  "description": "Lorem ipsum na dolor consecture",
+  "createdAt": {
+    "$date": "2023-06-17T08:33:15.661Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T08:33:15.661Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d73fd3d339047cc744589"
+  },
+  "name": "shoes",
+  "description": "Get the best quality shoes at best prices",
+  "createdAt": {
+    "$date": "2023-06-17T08:51:09.054Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-05T15:37:36.173Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d75f93d339047cc7445ad"
+  },
+  "name": "men",
+  "description": "Lorem ipsum na dolor consecture",
+  "createdAt": {
+    "$date": "2023-06-17T08:59:37.171Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T08:59:37.171Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d785f3d339047cc7445dc"
+  },
+  "name": "woodwork",
+  "description": "Lorem ipsum na dolor consecture",
+  "createdAt": {
+    "$date": "2023-06-17T09:09:51.614Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T09:09:51.614Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d7a1d3d339047cc7445ff"
+  },
+  "name": "bag",
+  "description": "Selling bags of all types, laptop bags, school bags etc.",
+  "createdAt": {
+    "$date": "2023-06-17T09:17:17.877Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-07T10:49:26.807Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a56c21b3b553adac81eab7"
+  },
+  "name": "fresh food",
+  "description": "Best fresh meal you can find in Uganda",
+  "createdAt": {
+    "$date": "2023-07-05T13:12:01.328Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-05T15:07:25.268Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a56cf2b3b553adac81eabb"
+  },
+  "name": "vegetables",
+  "description": "Only vegetables of good quality",
+  "createdAt": {
+    "$date": "2023-07-05T13:15:30.503Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-05T13:15:30.503Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a7ede68f080c04e446ed7b"
+  },
+  "name": "women clothes",
+  "description": "This category of for women clothes of all types and size.",
+  "createdAt": {
+    "$date": "2023-07-07T10:50:14.241Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-08T13:02:40.377Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a9641151b05bc8c95a9f5f"
+  },
+  "name": "wine & alcohol",
+  "description": "All types of beverages",
+  "createdAt": {
+    "$date": "2023-07-08T13:26:42.069Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-28T12:31:38.620Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a964cf51b05bc8c95a9f67"
+  },
+  "name": "fish",
+  "description": "All fish categories",
+  "createdAt": {
+    "$date": "2023-07-08T13:29:51.589Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-08T13:33:39.995Z"
+  },
+  "__v": 0
+}]
