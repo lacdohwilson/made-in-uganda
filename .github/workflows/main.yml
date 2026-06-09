@@ -1,0 +1,31 @@
+name: Build Job
+on:
+  push:
+   branches:
+    - main
+
+
+jobs:
+  Build:
+   runs-on: ubuntu-latest
+   steps:
+    - name: Code checkout
+      uses: actions/checkout@v4
+
+    - name: NPM Build
+      run: npm install
+
+  Testing:
+    runs-on: ubuntu-latest
+    needs: Build
+    steps:
+      - name: Code checkout
+        uses: actions/checkout@v4
+
+      - name: Run tests on main branch
+        run: npm run test
+
+      - name: Checkstyle
+        run: npm checkstyle:checkstyle
+
+   
