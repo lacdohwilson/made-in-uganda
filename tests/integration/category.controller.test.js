@@ -1,5 +1,5 @@
 import { expect } from 'expect';
-import Category from '../../models/category.model.js';
+import Category from '../../src/models/category.model.js';
 import {
   api,
   BASE_URL,

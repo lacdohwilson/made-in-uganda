@@ -1,13 +1,13 @@
 import request from 'supertest';
 import jwt from 'jsonwebtoken';
 
-import User from '../../models/user.model.js';
-import server from '../../server.js';
-import config from '../../configurations/config.js';
+import User from '../../src/models/user.model.js';
+import app from '../../src/app.js';
+import config from '../../src/configurations/config.js';
 import UnitTest from '../utilities/unitTestBases.js';
 
 /// @breif API request services
-export const api = request(server);
+export const api = request(app);
 
 /// @breif application base url
 export const BASE_URL = config.prefix;
@@ -49,5 +49,5 @@ export const getHeader = (user) => {
 };
 
 export const closeServer = () => {
-  server.close();
+  app.close();
 };

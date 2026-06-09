@@ -1,6 +1,6 @@
 import { expect } from 'expect';
-import Product from '../../models/product.model.js';
-import User from '../../models/user.model.js';
+import Product from '../../src/models/product.model.js';
+import User from '../../src/models/user.model.js';
 import {
   api,
   BASE_URL,
@@ -10,7 +10,7 @@ import {
 } from '../config/index.js';
 import GenRandomVal from '../utilities/genRandVal.js';
 import UnitTestBases from '../utilities/unitTestBases.js';
-import Category from '../../models/category.model.js';
+import Category from '../../src/models/category.model.js';
 
 const URL = `${BASE_URL}/products`;
 const PATH_TO_FILE = '../../dev-data/images';

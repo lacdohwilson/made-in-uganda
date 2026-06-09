@@ -1,6 +1,6 @@
 import { expect } from 'expect';
-import Store from '../../models/store.model.js';
-import User from '../../models/user.model.js';
+import Store from '../../src/models/store.model.js';
+import User from '../../src/models/user.model.js';
 import {
   api,
   BASE_URL,
