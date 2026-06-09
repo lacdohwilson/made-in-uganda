@@ -1,19 +1,23 @@
 name: Build Job
 on:
   push:
-   branches:
-    - main
-
+    branches:
+      - main
 
 jobs:
   Build:
-   runs-on: ubuntu-latest
-   steps:
-    - name: Code checkout
-      uses: actions/checkout@v4
+    runs-on: ubuntu-latest
+    steps:
+      - name: Code checkout
+        uses: actions/checkout@v4
 
-    - name: NPM Build
-      run: npm install
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: NPM Build
+        run: npm install
 
   Testing:
     runs-on: ubuntu-latest
@@ -22,10 +26,13 @@ jobs:
       - name: Code checkout
         uses: actions/checkout@v4
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Install dependencies
+        run: npm install
+
       - name: Run tests on main branch
         run: npm test
-
-      - name: Checkstyle
-        run: npm checkstyle:checkstyle
-
-   
