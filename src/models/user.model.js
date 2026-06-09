@@ -3,7 +3,7 @@ import { Schema, model } from 'mongoose';
 import bcrypt from 'bcryptjs';
 import validator from 'validator';
 
-import eUserRole from '../utilities/enums/e.user-role.js';
+import eUserRole from '../utils/enums/e.user-role.js';
 import config from '../configurations/config.js';
 
 const userSchema = new Schema(

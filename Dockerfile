@@ -1,12 +1,24 @@
-FROM node:24.15.0-alpine
+FROM node:22-alpine
 
+# Create app user
 RUN addgroup -S app && adduser -S -G app app
-USER app
 
 WORKDIR /app
-COPY --chown=app:app package*.json ./
+
+# Copy dependency files first (better caching)
+COPY package*.json ./
+
+# Install dependencies (as root)
 RUN npm ci --omit=dev
-COPY --chown=app:app . .
+
+# Copy app source
+COPY . .
+
+# Change ownership AFTER install
+RUN chown -R app:app /app
+
+# Switch to non-root user
+USER app
 
 EXPOSE 9000
 

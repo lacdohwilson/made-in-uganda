@@ -1,8 +1,8 @@
 import sharp from 'sharp';
 import Store from '../models/store.model.js';
 import factory from './handler.factory.js';
-import upload from '../utilities/upload.js';
-import catchAsync from '../utilities/catchAsync.js';
+import upload from '../utils/upload.js';
+import catchAsync from '../utils/catchAsync.js';
 
 /**
  * @bref Set parameter id in getting current user store

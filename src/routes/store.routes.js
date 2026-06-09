@@ -1,7 +1,7 @@
 import { Router } from 'express';
 import authController from '../controllers/auth.controller.js';
 import storeController from '../controllers/store.controller.js';
-import eUserRole from '../utilities/enums/e.user-role.js';
+import eUserRole from '../utils/enums/e.user-role.js';
 import productRouter from './product.routes.js';
 
 const router = Router();

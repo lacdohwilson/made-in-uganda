@@ -50,6 +50,32 @@ const config = {
     id: process.env.PAYPAL_CLIENT_ID,
     key: process.env.PAYPAY_KEY,
   },
+
+  /**
+   * @breif Cloudinary variables
+   */
+  cloudinary: {
+    cloud_name: process.env.CLOUDINARY_CLOUD_NAME,
+    api_key: process.env.CLOUDINARY_API_KEY,
+    api_secret: process.env.CLOUDINARY_API_SECRET,
+  },
+
+  /**
+   * @breif Redis varaible configurations
+   */
+  redis: {
+    host: process.env.REDIS_HOST || '127.0.0.1',
+    port: process.env.REDIS_PORT || 6379,
+    password: process.env.REDIS_PASSWORD,
+    tls: process.env.REDIS_TLS,
+  },
+
+  /**
+   * @brief Hpp Whitelist
+   */
+  hpp: {
+    whitelist: process.env.HPP_WHITELIST?.split(',') || [],
+  },
 };
 
 export default config;

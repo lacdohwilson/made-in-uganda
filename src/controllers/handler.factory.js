@@ -1,7 +1,7 @@
 import { Types } from 'mongoose';
-import AppError from '../utilities/appError.js';
-import catchAsync from '../utilities/catchAsync.js';
-import APIFeatures from '../utilities/apiFeatures.js';
+import AppError from '../utils/appError.js';
+import catchAsync from '../utils/catchAsync.js';
+import APIFeatures from '../utils/apiFeatures.js';
 
 /**
  * @breif Create a new document in a database collection

@@ -2,10 +2,10 @@ import cron from 'node-cron';
 import User from '../models/user.model.js';
 
 import factory from './handler.factory.js';
-import AppError from '../utilities/appError.js';
-import catchAsync from '../utilities/catchAsync.js';
-import { filterObj } from '../utilities/util.js';
-import { MONTHLY_SUBCRIPTIONS_TIME } from '../utilities/constants/index.js';
+import AppError from '../utils/appError.js';
+import catchAsync from '../utils/catchAsync.js';
+import { filterObj } from '../utils/util.js';
+import { MONTHLY_SUBCRIPTIONS_TIME } from '../utils/constants/index.js';
 
 /**
  * @breif Create a cron job to run a script that updates

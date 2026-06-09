@@ -4,11 +4,11 @@ import { promisify } from 'util';
 import User from '../models/user.model.js';
 import Store from '../models/store.model.js';
 import Subscription from '../models/subscription.model.js';
-import email from '../utilities/email.js';
+import email from '../utils/email.js';
 import config from '../configurations/config.js';
-import catchAsync from '../utilities/catchAsync.js';
-import AppError from '../utilities/appError.js';
-import { subcriptionIsExpired } from '../utilities/util.js';
+import catchAsync from '../utils/catchAsync.js';
+import AppError from '../utils/appError.js';
+import { subcriptionIsExpired } from '../utils/util.js';
 
 /**
  * @breif Generate user jwt access token

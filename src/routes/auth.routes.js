@@ -1,6 +1,6 @@
 import { Router } from 'express';
 import authController from '../controllers/auth.controller.js';
-import eUserRole from '../utilities/enums/e.user-role.js';
+import eUserRole from '../utils/enums/e.user-role.js';
 
 const router = Router();
 

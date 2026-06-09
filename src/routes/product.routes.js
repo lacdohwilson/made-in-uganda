@@ -2,7 +2,7 @@ import { Router } from 'express';
 
 import authController from '../controllers/auth.controller.js';
 import productController from '../controllers/product.controller.js';
-import eUserRole from '../utilities/enums/e.user-role.js';
+import eUserRole from '../utils/enums/e.user-role.js';
 
 const router = Router({ mergeParams: true });
 
@@ -38,7 +38,6 @@ router
     authController.protect,
     authController.restrictTo(eUserRole.USER),
     productController.uploadProductImages,
-    productController.resizeProductImages,
     productController.saveProductImages
   );
 
@@ -50,7 +49,6 @@ router
     authController.restrictTo(eUserRole.USER),
     authController.checkSubscriptionStatus,
     productController.uploadProductImages,
-    productController.resizeProductImages,
     productController.setProductStore,
     productController.createProduct
   );
@@ -63,7 +61,6 @@ router
     authController.restrictTo(eUserRole.USER),
     authController.checkSubscriptionStatus,
     productController.uploadProductImages,
-    productController.resizeProductImages,
     productController.updateProduct
   )
   .delete(

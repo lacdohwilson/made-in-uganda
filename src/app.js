@@ -19,7 +19,7 @@ import storeRouter from './routes/store.routes.js';
 import subscriptionRouter from './routes/subscription.routes.js';
 import productRouter from './routes/product.routes.js';
 import categoryRouter from './routes/category.routes.js';
-import { apiLimiter } from './middlewares/apiLimiter.js';
+import apiLimiter from './middlewares/apiLimiter.js';
 import corsMiddleware from './middlewares/cors.middleware.js';
 
 import { TEST } from './constants/environments.js';

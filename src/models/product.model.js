@@ -1,5 +1,5 @@
 import { Schema, model } from 'mongoose';
-import AppError from '../utilities/appError.js';
+import AppError from '../utils/appError.js';
 
 const productSchema = new Schema(
   {
