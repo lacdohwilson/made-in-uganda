@@ -1,38 +1,83 @@
-name: Build Job
+name: Node CI Pipeline
+
 on:
   push:
-    branches:
-      - main
+    branches: [main]
+
+  pull_request:
+    branches: [main]
+
+  workflow_dispatch:
+
+  schedule:
+    - cron: "0 2 * * *"
+
+permissions:
+  contents: read
 
 jobs:
-  Build:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Code checkout
-        uses: actions/checkout@v4
+      - name: Checkout code
+        uses: actions/checkout@v5
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '24'
-
-      - name: NPM Build
-        run: npm install
-
-  Testing:
-    runs-on: ubuntu-latest
-    needs: Build
-    steps:
-      - name: Code checkout
-        uses: actions/checkout@v4
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '24'
+          node-version: 20
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
-      - name: Run tests on main branch
+      - name: Build project
+        run: npm run build --if-present
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: node-build
+          path: .
+
+      - name: Notify on failure
+        if: failure()
+        run: echo "Build failed - check logs"
+
+  test:
+    runs-on: ubuntu-latest
+    needs: build
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v5
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run tests
         run: npm test
+
+  security_scan:
+    runs-on: ubuntu-latest
+    needs: build
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v5
+
+      - name: Run Trivy scan
+        run: |
+          curl -sfL https://raw.githubusercontent.com/aquasecurity/trivy/main/contrib/install.sh | sh
+          ./trivy fs . --format json --output trivy-results.json
+
+      - name: Upload scan results
+        uses: actions/upload-artifact@v4
+        with:
+          name: trivy-results
+          path: trivy-results.json
